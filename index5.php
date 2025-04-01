@@ -6,7 +6,7 @@
 <body>
     <h1>Список чисел от 1 до 10</h1>
     <ul>
-        <?php include 'number_list_do_while.php'; ?>
+        <?php include 'forms/number_list_do_while.php'; ?>
     </ul>
 </body>
 </html>

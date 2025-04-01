@@ -4,7 +4,7 @@
     <title>Выбор цвета</title>
 </head>
 <body>
-    <form action="favorite_color.php" method="post">
+    <form action="forms/favorite_color.php" method="post">
         <label for="color">Выберите ваш любимый цвет:</label>
         <select id="color" name="color">
             <option value="red">Красный</option>

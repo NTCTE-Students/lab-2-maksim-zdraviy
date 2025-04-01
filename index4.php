@@ -6,7 +6,7 @@
 <body>
     <h1>Список чисел от 1 до 10</h1>
     <ul>
-        <?php include 'number_list.php'; ?>
+        <?php include 'forms/number_list.php'; ?>
     </ul>
 </body>
 </html>

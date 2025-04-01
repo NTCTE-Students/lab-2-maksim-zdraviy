@@ -20,7 +20,7 @@
 <body>
     <h1>Таблица умножения</h1>
     <table>
-        <?php include 'multiplication_table.php'; ?>
+        <?php include 'forms/multiplication_table.php'; ?>
     </table>
 </body>
 </html>
